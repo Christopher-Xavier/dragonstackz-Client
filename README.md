@@ -3,11 +3,10 @@
 README.md
 #Dragonstackz README.md Master Full-Stack Development | Node, SQL, React, and More The official code for the Master Full-Stack Development | Node, SQL, React, Postgresql
 
-##Backend: <a href="https://github.com/Christopher-Xavier/dragonstackz-backend.git"/
+#Server (https://github.com/Christopher-Xavier/dragonstackz-backend.git"/)
 
-##live-repo: <a href="https://christopher-xavier.github.io/dragonstackz"/
+##live-repo: (https://github.com/Christopher-Xavier/dragonstackz-Client.git)
 
-##github repo: <a href="https://github.com/Christopher-Xavier/dragonstackz.git"/
 
 # deployed link: https://dragonstackz-client.vercel.app
 
